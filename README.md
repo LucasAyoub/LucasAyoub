@@ -25,6 +25,7 @@
 <img align="left" alt="GitLab" width="26px" src="https://simpleicons.org/icons/gitlab.svg"/>
 <img align="left" alt="Windows" width="26px" src="https://simpleicons.org/icons/windows.svg"/>
 <img align="left" alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg"/>
+<img align="left" alt="Anaconda" width="26px" src="https://simpleicons.org/icons/anaconda.svg"/>
 
 <br />
 <br />
