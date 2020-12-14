@@ -39,5 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAyoub&layout=compact&hide=html" /></p>
 
 [instagram]: https://www.instagram.com/luc.ayoub/?hl=pt-br
-[linkedin]: https://www.linkedin.com
+[linkedin]: https://www.linkedin.com/in/lucas-ayoub-549a72201/
 
