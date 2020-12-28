@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Lupoli Barbosa Ayoub 👋 
 
-##welcome to my profile!
+## Welcome to my profile!
 
 ## I'm a Student, Developer and a Geek!
 
