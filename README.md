@@ -4,9 +4,16 @@
 
 ## I'm a Student, Developer and a Geek!
 
-- Python back-end developer
-- 🥇Objective: learn Python, create projects
+- Python Back-end developer
+- 🥇Objective: especialize in Python, Django and Flask frameworks, Data Science and contribute to Open Source Projects
 - ⚡ Curiosity: I love games, play guitar, I love to read
+
+## Studying Actually
+
+- Django/Flask
+- React JS
+- AWS
+
 
 ### Connect with me:
 
