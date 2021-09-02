@@ -6,6 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <i class="devicon-django-plain colored"></i>
   <img align="center" alt="Lucas-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
