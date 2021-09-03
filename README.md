@@ -8,9 +8,9 @@
 </div>
  
  ## About Me: 🌟
-- 👨‍💻 I'm a Python, Java and JavaScript Developer. I dedicate myself constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company. I work today as a Junior Developer & Systems Development Analyst, using Python, Java and JavaScript languages to develop and fix automation systems together with flow orchestrator platforms like Pipefy and others.
+- 👨‍💻 I'm a Python, Java and JavaScript Developer. I dedicate myself constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company. I work today as a Junior Developer & Systems Development Analyst, using Python, Java and JavaScript languages to develop and fix automation systems together with flow orchestrator platforms like Pipefy and Lecom.
 - 👨‍🎓 I am currently studying Computer Science in the 4th Semester.
-- 
+- 🎯 
 
 </div> 
  
