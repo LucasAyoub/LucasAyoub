@@ -1,4 +1,4 @@
-## Olá, Eu sou o Lucas Ayoub 
+## Olá, Eu sou o Lucas Ayoub! 💎
 
  <div>
   <a href="https://github.com/LucasAyoub">
