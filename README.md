@@ -4,7 +4,7 @@
   <a href="https://github.com/LucasAyoub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAyoub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAyoub&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/617469731120742423/883415955319975967/heart-i-love-you.gif">
 </div>
  
  ## Skills: 💻 
