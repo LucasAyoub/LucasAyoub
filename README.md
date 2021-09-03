@@ -60,4 +60,7 @@
 
   ![Snake animation](https://github.com/LucasAyoub/LucasAyoub/blob/output/github-contribution-grid-snake.svg)
   
+  <div>
+  <p align="center"> 
   <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/617469731120742423/883415963461103666/OptimalWarpedIndochinesetiger-size_restricted.gif">
+  </div>
