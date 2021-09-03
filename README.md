@@ -9,7 +9,9 @@
  
  ## About Me: 🌟
 <div> 
-- I'm a Python, Java and JavaScript Developer. I work constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company
+• I'm a Python, Java and JavaScript Developer. I work constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company.
+• 
+
 </div> 
  
  ## Skills: 💻 
