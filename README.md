@@ -8,7 +8,7 @@
 </div>
  
  ## About Me: 🌟
-- 💻 I'm a Python, Java and JavaScript Developer. I work constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company. I work today as a Junior Developer & Systems Development Analyst, using Python, Java and JavaScript languages to develop and fix automation systems together with flow orchestrator platforms like Pipefy and others.
+- 👨‍💻 I'm a Python, Java and JavaScript Developer. I dedicate myself constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company. I work today as a Junior Developer & Systems Development Analyst, using Python, Java and JavaScript languages to develop and fix automation systems together with flow orchestrator platforms like Pipefy and others.
 - 👨‍🎓 I am currently studying Computer Science in the 4th Semester.
 - 
 
@@ -51,11 +51,11 @@
   ## Contact: 📱
   <div>
   <p align="center"> 
-  <a href="https://www.instagram.com/luc.ayoub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-ayoub-549a72201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "mailto:lucas.ayoub123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-ayoub-549a72201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/luc.ayoub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <p align="center"> 
   </div> 
 
