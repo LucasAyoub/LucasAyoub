@@ -1,4 +1,4 @@
-## Olá, Eu sou o Lucas Ayoub! 💎
+## Olá, Eu sou o Lucas Ayoub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
  <div>
   <a href="https://github.com/LucasAyoub">
@@ -8,9 +8,9 @@
 </div>
  
  ## About Me: 🌟
-<div> 
-• I'm a Python, Java and JavaScript Developer. I work constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company.
-• 
+- I'm a Python, Java and JavaScript Developer. I work constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company.
+- I am currently studying Computer Science in the 4th Semester.
+- 
 
 </div> 
  
