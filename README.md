@@ -57,6 +57,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/luc.ayoub/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
-  <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/617469731120742423/883415963461103666/OptimalWarpedIndochinesetiger-size_restricted.gif">
 
   ![Snake animation](https://github.com/LucasAyoub/LucasAyoub/blob/output/github-contribution-grid-snake.svg)
+  
+  <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/617469731120742423/883415963461103666/OptimalWarpedIndochinesetiger-size_restricted.gif">
