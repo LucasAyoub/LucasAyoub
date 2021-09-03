@@ -1,4 +1,4 @@
-## Olá, Eu sou o Lucas Ayoub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi, I'm Lucas Ayoub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
  <div>
   <a href="https://github.com/LucasAyoub">
