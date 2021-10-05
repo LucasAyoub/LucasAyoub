@@ -10,7 +10,7 @@
  ## About Me: 🌟
 - 👨‍💻 I'm a Python, Java and JavaScript Developer. I dedicate myself constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company. I work today as a Junior Developer & Systems Development Analyst, using Python, Java and JavaScript languages to develop and fix automation systems together with flow orchestrator platforms like Pipefy and Lecom.
 - 👨‍🎓 I am currently studying Computer Science in the 4th Semester.
-- 🎯 My current goal is to improve my techniques to become a Full Stack developer with a focus on Back-End. In the future I want to become a data scientist to work with AI. 
+- 🎯 My current goal is to improve my techniques as a Developer / Analyst and In the future become a Data Scientist to work with AI. 
  
 </div> 
  
