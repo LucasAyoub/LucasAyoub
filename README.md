@@ -9,8 +9,11 @@
  
  ## About Me: 🌟
 • 👨‍💻 I'm a Salesforce Developer/Administrator, Python, Java and JavaScript. I dedicate myself constantly to always be learning something new and improving what I am already good at, in order to improve my work and develop better solutions for my company.
-• 💻 I work today as a Salesforce Developer at TCS.
+
+ • 💻 I work today as a Salesforce Developer at TCS.
+ 
 • 👨‍🎓 I am currently studying Computer Science in the 5th Semester.
+ 
 • 🎯 My current goal is to increasingly specialize in Salesforce to develop better solutions and
  opportunities in the area as an Administrator, Developer or Architect.
  
