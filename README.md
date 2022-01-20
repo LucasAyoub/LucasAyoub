@@ -8,13 +8,11 @@
 </div>
  
  ## About Me: 🌟
-• 👨‍💻I'm a Python, Java, JavaScript developer and I'm studying and specializing in Salesforce. I dedicate myself constantly to always be learning something new and improving what I'm already good at, in order to improve my work and develop better solutions for my company.
-
-• 💻 I work today as a Junior Developer & Systems Development Analyst, using Python, Java and JavaScript languages to develop and perform maintenance on automation systems together with flow orchestrator platforms like Pipefy and Lecom.
-
+• 👨‍💻 I'm a Salesforce Developer/Administrator, Python, Java and JavaScript. I dedicate myself constantly to always be learning something new and improving what I am already good at, in order to improve my work and develop better solutions for my company.
+• 💻 I work today as a Salesforce Developer at TCS.
 • 👨‍🎓 I am currently studying Computer Science in the 5th Semester.
-
-• 🎯 My current goal is to improve my Salesforce techniques to work in the area as an Administrator, Developer and Architect.
+• 🎯 My current goal is to increasingly specialize in Salesforce to develop better solutions and
+ opportunities in the area as an Administrator, Developer or Architect.
  
 </div> 
  
