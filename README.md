@@ -58,7 +58,7 @@
   <p align="center"> 
   <a href="https://www.linkedin.com/in/lucas-ayoub-549a72201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://trailblazer.me/id/lbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Trailhead-%23E4405F?style=for-the-badge&logo=trailhead&logoColor=white" target="_blank"></a>
+  <a href="https://trailblazer.me/id/lucasayoub" target="_blank"><img src="https://img.shields.io/badge/-Trailhead-%23E4405F?style=for-the-badge&logo=trailhead&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "mailto:lucas.ayoub123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
