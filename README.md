@@ -2,8 +2,6 @@
 
  <div>
   <a href="https://github.com/LucasAyoub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAyoub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAyoub&layout=compact&langs_count=7&theme=dracula"/>
   <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/617469731120742423/883415955319975967/heart-i-love-you.gif">
 </div>
  
@@ -25,7 +23,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Lucas-Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Lucas-Django" height="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="Lucas-Django" height="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Lucas-Flask" height="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
