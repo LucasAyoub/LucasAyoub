@@ -1,22 +1,5 @@
 ## Hi, I'm Lucas Ayoub! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
- <div>
-  <a href="https://github.com/LucasAyoub">
-  <img align="right" alt="Lucas-Gif" src="https://cdn.discordapp.com/attachments/617469731120742423/883415955319975967/heart-i-love-you.gif">
-</div>
- 
- ## About Me: 🌟
-• 👨‍💻 I'm a Salesforce Developer/Administrator and a Python, Java and JavaScript Dev. I dedicate myself constantly to always be learning something new and improving what I am already good at, in order to improve my work and develop better solutions for my company.
-
- • 💻 I work today as a Salesforce Developer at TCS.
- 
-• 👨‍🎓 I am currently studying Computer Science in the 5th Semester.
- 
-• 🎯 My current goal is to increasingly specialize in Salesforce to develop better solutions and
- opportunities in the area as an Administrator, Developer or Architect.
- 
-</div> 
- 
  ## Skills: 💻 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Salesforce" height="70" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-plain.svg">
